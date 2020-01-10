@@ -13,3 +13,16 @@ h1 > img {
   vertical-align: middle;
   padding: .3em;
 }
+
+p {
+  color: white;
+  background-color: dimgrey;
+  display: inline-inline-block;
+  padding: 1em;
+}
+
+button {
+  font-size: 1em;
+  /* margin: 1em auto; */
+  padding: .5em 1em;
+}
