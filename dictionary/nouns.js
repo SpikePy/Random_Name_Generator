@@ -1,4 +1,4 @@
-const nouns = [
+const noun = [
   "a",
   "ability",
   "abroad",

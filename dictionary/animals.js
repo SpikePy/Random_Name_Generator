@@ -1,4 +1,4 @@
-const animals = [
+const animal = [
   "Aardvark",
   "Albatross",
   "Alligator",
